@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886951461104",
+    "project_id": "waglewagle-570c4",
+    "storage_bucket": "waglewagle-570c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886951461104:android:feb90e36b0f5c43fc5c235",
+        "android_client_info": {
+          "package_name": "project.android.waglewagle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886951461104-a1chm7bc6n51qdvmvcqbc3ajq5ij3rc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL5HVCxNkzpv2vSjUaab5MzMBG29UiPxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886951461104-a1chm7bc6n51qdvmvcqbc3ajq5ij3rc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
